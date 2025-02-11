@@ -1,0 +1,12 @@
+{
+  "name": "victor",
+  "email": "v@gmail.com",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "username": "Vsphere",
+  "password": "123456",
+  "invalidPassword" :"345677",
+  "invalidUsername" :"Christabel",
+  "contactEmail" : "123456@gmail.com",
+  "contactName" : "victor",
+  "message" : "My name is victor"
+}
