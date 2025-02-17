@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cypress:open": "cypress open"
   },
   "keywords": [],
   "author": "",
@@ -12,9 +12,6 @@
   "devDependencies": {
     "cypress": "^13.17.0",
     "cypress-iframe": "^1.0.1"
-  },
-  "scripts" : {
-    "cypress:open" : "cypress open"
   },
   "dependencies": {
     "@badeball/cypress-cucumber-preprocessor": "latest",
